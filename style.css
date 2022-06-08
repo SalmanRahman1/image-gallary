@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+       height: 100px;
+
+}
+.header h1{
+    padding: 20px;
+}
+.system-title{
+    padding: 20px;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.container img{
+    width: 160px;
+    height: 160px;
+    margin: 10px;
+}
